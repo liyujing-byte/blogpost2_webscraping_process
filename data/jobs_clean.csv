@@ -1,0 +1,2330 @@
+"job_title","url","company","description"
+"Data Engineer III
+
+New York City, New York","https://job-boards.greenhouse.io/garnerhealth/jobs/6181548004","Garner Health","Back to jobs
+Data Engineer III
+New York City, New York
+Apply
+What you’ll be part of
+
+Garner is on a mission to transform the U.S. healthcare system — and we’re the only proven player doing exactly that. We partner with employers to redesign how healthcare works: applying 550+ proprietary clinical metrics across 80+ specialties to a dataset of 320M+ patients to identify the best-performing doctors, then using compelling incentives to steer members to the care that helps them get healthier, faster.
+
+The result is a rare “win win” — better care and lower costs for both members and employers. In just five years, our work has helped over 2.5 million people access higher-quality care and saved $1B in healthcare costs. We recently raised our Series E and have doubled five years running. If you've ever wanted your work to solve a problem that touches every person in this country, this is the opportunity to do exactly that. You'd be joining a team fundamentally reimagining healthcare in the U.S. — and using AI to scale that impact further and faster than anyone else can.
+
+About the role:
+
+We are seeking an exceptional Data Engineer III to join our Engineering team, with a high sense of ownership who is excited about our mission, eager to learn and teach others, and can deliver across the tech stack. The ideal candidate should have experience with a modern data stack and implementations of data pipelines using Python and SQL in AWS. 
+
+Where you will work:
+
+This role will be based in our New York City office. You must be willing to work in the office 3 days per week on Tuesday, Wednesday and Thursday.
+
+What you will do:
+
+Build, optimize, and maintain data pipelines that power our business
+Define and build out abstracted reusable data sets to be used for Business Intelligence, Marketing, and Data Science Research
+Design, build, and evangelize a federated data validation framework to be used to monitor potential data inconsistencies
+Protect our users’ privacy and security through best practices
+
+The ideal candidate has:
+
+2+ years of software/data engineering experience (distributed data processing, data warehousing, data governance, Big Data, data variance, data privacy, and data quality).
+Expertise in SQL and Python
+Expertise in building scalable data pipelines, query optimization, data modeling, and defining reusable datasets
+Experience working with orchestration tools (especially Airflow), databases (especially PostgreSQL), data warehouses (especially Snowflake)
+Familiarity with SQL tuning, medallion/event-driven architectures, and telemetry.
+Familiarity with healthcare or insurance
+Familiarity with data security and HIPPA compliance
+A desire to be a part of a high-performing, mission-driven team that operates with intense urgency, a strong sense of individual accountability, and a commitment to authentic feedback
+
+Please note: we are unable to sponsor or take over sponsorship of an employment visa at this time.
+
+What you'll get here:
+
+You’ll work on problems that matter, at a company working to change healthcare at scale. You’ll work at the intersection of AI and systemic healthcare reform, where the problems we solve are as interesting and compelling as the mission.
+
+At Garner, you’ll take on real, ambitious problems with real ownership and autonomy, alongside exceptional, principles-based people who genuinely want you to win. It’s demanding by design. You’ll be challenged to stretch beyond what you thought possible and receive consistent coaching to help you grow and do the best work of your career. This isn't the right fit for everyone, and that's intentional. The people here are driven by what's at stake for real people, and that's what gives our intensity its purpose. 
+
+Technologies we use:
+
+Postgres/SQL, Snowflake, Python, AWS, Terraform, Argo, Airflow, Spark, DuckDB, Iceberg, Airbyte, DBT, ElasticSearch (aka OpenSearch), OpenTelemetry, Looker
+
+This is a unique opportunity to join a fast-growing company in a transformative role, helping shape the future of healthcare.
+
+Compensation Transparency:
+
+The target salary range for this position is $166,000 - $205,000. Individual compensation for this role will depend on various factors, including qualifications, skills, and applicable laws. In addition to base compensation, this role is eligible to participate in our equity incentive and competitive benefits plans, including but not limited to: flexible PTO, Medical/Dental/Vision plan options, 401(k) with company match, flexible spending accounts, Teladoc Health and more.
+
+Fraud and Security Notice: 
+
+Please be aware of recent job scam attempts. Our recruiters use getgarner.com and garnerhealth.com email domains exclusively. If you have been contacted by someone claiming to be a Garner recruiter or a hiring manager from a different domain about a potential job, please report it to law enforcement here and to candidateprotection@garnerhealth.com.
+
+Equal Employment Opportunity:
+Garner Health is proud to be an Equal Employment Opportunity employer and values diversity in the workplace. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.
+
+Garner Health is committed to providing accommodations for qualified individuals with disabilities in our recruiting process. If you need assistance or an accommodation due to a disability, you may contact us at talent@garnerhealth.com. 
+
+Create a Job Alert
+
+Interested in building your career at Garner Health? Get future opportunities sent straight to your email.
+
+Create alert
+Apply for this job
+
+*
+
+indicates a required field
+
+Autofill my application
+First Name*
+Last Name*
+Preferred First Name
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile*
+What is your desired salary?*
+Are you legally authorized to work in the United States of America? *
+Select...
+Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status)?*
+Select...
+Are you currently based in or planning to relocate to the NYC area and willing to work in our NYC office 3 days a week?*
+Select...
+Which state do you currently reside in?*
+Select...
+U.S. Standard Demographic Questions
+We invite applicants to share their demographic background. If you choose to complete this survey, your responses may be used to identify areas of improvement in our hiring process.
+How would you describe your gender identity? (mark all that apply)
+Select...
+How would you describe your racial/ethnic background? (mark all that apply)
+Select...
+How would you describe your sexual orientation? (mark all that apply)
+Select...
+Do you identify as transgender?
+Select...
+Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?
+Select...
+Are you a veteran or active member of the United States Armed Forces?
+Select...
+Submit application"
+"Senior Data Engineer
+
+New York City, New York","https://job-boards.greenhouse.io/garnerhealth/jobs/6181631004","Garner Health","Back to jobs
+Senior Data Engineer
+New York City, New York
+Apply
+What you’ll be part of
+
+Garner is on a mission to transform the U.S. healthcare system — and we’re the only proven player doing exactly that. We partner with employers to redesign how healthcare works: applying 550+ proprietary clinical metrics across 80+ specialties to a dataset of 320M+ patients to identify the best-performing doctors, then using compelling incentives to steer members to the care that helps them get healthier, faster.
+
+The result is a rare “win win” — better care and lower costs for both members and employers. In just five years, our work has helped over 2.5 million people access higher-quality care and saved $1B in healthcare costs. We recently raised our Series E and have doubled five years running. If you've ever wanted your work to solve a problem that touches every person in this country, this is the opportunity to do exactly that. You'd be joining a team fundamentally reimagining healthcare in the U.S. — and using AI to scale that impact further and faster than anyone else can.
+
+About the role:
+
+We are seeking an exceptional Senior Data Engineer with a high sense of ownership who is excited about our mission, eager to learn and teach others, and can deliver across the tech stack. This role will report to our VP, Engineering. The ideal candidate should have experience with a modern data stack and implementations of data pipelines using Python and SQL in AWS. 
+
+Where you will work:
+
+This role will be based in our New York City office. You must be willing to work in the office 3 days per week on Tuesday, Wednesday and Thursday. 
+
+What you will do:
+Build, optimize, and maintain data pipelines that power our business
+Define and build out abstracted reusable data sets to be used for Business Intelligence, Marketing, and Data Science Research
+Design, build, and evangelize a federated data validation frameworks to be used to monitor potential data inconsistencies
+Protect our users’ privacy and security through best practices
+The ideal candidate has:
+4+ years of software/data engineering experience (distributed data processing, data warehousing, data governance, Big Data, data variance, data privacy, and data quality)
+Expertise in SQL, job experience, and demonstrated strength with Python
+Expertise in building scalable data pipelines, query optimization, data modeling, and defining reusable datasets
+Experience working with orchestration tools (especially Airflow), databases (especially PostgreSQL), datalakes (especially Iceberg), data warehouses (especially Snowflake)
+Expertise with SQL tuning, Spark development, medallion and event-driven architectures. 
+Familiarity with healthcare or insurance
+Familiarity with data security and HIPAA compliance
+A desire to be a part of a high-performing, mission-driven team that operates with intense urgency, a strong sense of individual accountability, and a commitment to authentic feedback
+What you’ll get here:
+
+You’ll work on problems that matter, at a company working to change healthcare at scale. You’ll work at the intersection of AI and systemic healthcare reform, where the problems we solve are as interesting and compelling as the mission.
+
+At Garner, you’ll take on real, ambitious problems with real ownership and autonomy, alongside exceptional, principles-based people who genuinely want you to win. It’s demanding by design. You’ll be challenged to stretch beyond what you thought possible and receive consistent coaching to help you grow and do the best work of your career. This isn't the right fit for everyone, and that's intentional. The people here are driven by what's at stake for real people, and that's what gives our intensity its purpose.
+
+Technologies we use: 
+Postgres/SQL, Snowflake, Python, AWS, Terraform, Argo, Airflow, Spark, DuckDB, Iceberg, Airbyte, DBT, ElasticSearch (aka OpenSearch), OpenTelemetry, Looker
+
+This is a unique opportunity to join a fast-growing company in a transformative role, helping shape the future of healthcare.
+
+Compensation Transparency:
+
+The target salary range for this position is $220,000.00 - $245,000.00. Individual compensation for this role will depend on various factors, including qualifications, skills, and applicable laws. In addition to base compensation, this role is eligible to participate in our equity incentive and competitive benefits plans, including but not limited to: flexible PTO, Medical/Dental/Vision plan options, 401(k) with company match, flexible spending accounts, Teladoc Health and more.
+
+Fraud and Security Notice: 
+
+Please be aware of recent job scam attempts. Our recruiters use getgarner.com and garnerhealth.com email domains exclusively. If you have been contacted by someone claiming to be a Garner recruiter or a hiring manager from a different domain about a potential job, please report it to law enforcement here and to candidateprotection@garnerhealth.com.
+
+Equal Employment Opportunity:
+Garner Health is proud to be an Equal Employment Opportunity employer and values diversity in the workplace. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.
+
+Garner Health is committed to providing accommodations for qualified individuals with disabilities in our recruiting process. If you need assistance or an accommodation due to a disability, you may contact us at talent@garnerhealth.com. 
+
+Create a Job Alert
+
+Interested in building your career at Garner Health? Get future opportunities sent straight to your email.
+
+Create alert
+Apply for this job
+
+*
+
+indicates a required field
+
+Autofill my application
+First Name*
+Last Name*
+Preferred First Name
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile*
+What is your desired salary?*
+Are you legally authorized to work in the United States of America? *
+Select...
+Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status)?*
+Select...
+Are you currently based in or planning to relocate to the NYC area and willing to work in our NYC office 3 days a week?*
+Select...
+Which state do you currently reside in?*
+Select...
+U.S. Standard Demographic Questions
+We invite applicants to share their demographic background. If you choose to complete this survey, your responses may be used to identify areas of improvement in our hiring process.
+How would you describe your gender identity? (mark all that apply)
+Select...
+How would you describe your racial/ethnic background? (mark all that apply)
+Select...
+How would you describe your sexual orientation? (mark all that apply)
+Select...
+Do you identify as transgender?
+Select...
+Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?
+Select...
+Are you a veteran or active member of the United States Armed Forces?
+Select...
+Submit application"
+"Staff Machine Learning Operations Engineer
+
+New York City, New York","https://job-boards.greenhouse.io/garnerhealth/jobs/6186647004","Garner Health","Back to jobs
+Staff Machine Learning Operations Engineer
+New York City, New York
+Apply
+What you’ll be part of
+
+Garner is on a mission to transform the U.S. healthcare system — and we’re the only proven player doing exactly that. We partner with employers to redesign how healthcare works: applying 550+ proprietary clinical metrics across 80+ specialties to a dataset of 320M+ patients to identify the best-performing doctors, then using compelling incentives to steer members to the care that helps them get healthier, faster.
+
+The result is a rare “win win” — better care and lower costs for both members and employers. In just five years, our work has helped over 2.5 million people access higher-quality care and saved $1B in healthcare costs. We recently raised our Series E and have doubled five years running. If you've ever wanted your work to solve a problem that touches every person in this country, this is the opportunity to do exactly that. You'd be joining a team fundamentally reimagining healthcare in the U.S. — and using AI to scale that impact further and faster than anyone else can.
+
+About the role:
+
+We are seeking an exceptional Staff Machine Learning Operations Engineer to join our Platform Engineering team. This role will report to the VP of Platform Engineering. As Garner's foundational dedicated MLOps Engineer, you will assume responsibility for the reliability, performance, and cost-efficiency of our production machine learning systems. You will lead the development of a robust platform designed to facilitate the secure and consistent deployment of models by our machine learning and data science teams. Given that these models directly influence health outcomes and cost-effectiveness for millions of patients, maintaining the highest standards of production quality is imperative.
+
+Where you will work:
+
+This role will be based in our New York City office (in the Financial District). You must be willing to work in the office 3 days per week on Tuesday, Wednesday and Thursday. 
+
+What you will do:
+Own the reliability, performance, functionality, and cost-efficiency of Garner's production ML systems, including establishing SLOs, observability, and on-call responsibilities.
+Architect Garner's ML platform including required data infrastructure (including feature store, model registry and CI/CD for models), and standardized service patterns.
+Implement ML-specific CI/CD pipelines: Transition our deployment process from manual notebook hand-offs to automated, PR-driven CI/CD workflows that include automated data quality checks and statistical model validation prior to deployment.
+Drive down cost and latency through improved architecture, hardware choices, and model optimization as appropriate.
+Lay the foundation for a future Garner MLOps team, including workflows, standards, and KPIs that enables rapid teammate onboarding and helps stakeholders and teammates quickly identify the health of the team’s products, allowing engineers to focus on areas where issues reside
+Establish Drift Monitoring: Design and implement automated data drift and concept drift monitoring systems that alert the team when models degrade, laying the groundwork for future Continuous Training (CT) architectures
+The ideal candidate has:
+7+ years of software engineering experience, with significant time spent operating ML or data-intensive systems in production at scale.
+Deep experience with the modern ML production stack: model serving (e.g., Sagemaker, Triton, or equivalent), feature stores, model registries, and CI/CD for ML.
+Strong infrastructure and platform engineering fundamentals: Kubernetes, containerization, cloud (AWS preferred), Terraform/IaC, observability, and incident response.
+Experience designing ML platforms or significant components of one (not strictly consuming SaaS) and the judgment to know when to build vs. buy.
+Strong collaboration with ML, data, platform engineers, data scientists, and product engineering teams, with the ability to set technical direction as the most senior MLOps voice in the org.
+Healthcare, regulated-data, or other high-stakes production ML experience is a plus but not required.
+A desire to be a part of a high-performing, mission-driven team that operates with intense urgency, a strong sense of individual accountability, and a commitment to authentic feedback
+What you’ll get here:
+
+You’ll work on problems that matter, at a company working to change healthcare at scale. You’ll work at the intersection of AI and systemic healthcare reform, where the problems we solve are as interesting and compelling as the mission.
+
+At Garner, you’ll take on real, ambitious problems with real ownership and autonomy, alongside exceptional, principles-based people who genuinely want you to win. It’s demanding by design. You’ll be challenged to stretch beyond what you thought possible and receive consistent coaching to help you grow and do the best work of your career. This isn't the right fit for everyone, and that's intentional. The people here are driven by what's at stake for real people, and that's what gives our intensity its purpose.
+
+Technologies we use: 
+Python, Kubernetes, AWS, Sagemaker, Terraform, S3, Snowflake, Airflow, Datadog
+
+This is a unique opportunity to join a fast-growing company in a transformative role, helping shape the future of healthcare.
+
+Please note: we are unable to sponsor or take over sponsorship of an employment visa at this time.
+
+Compensation Transparency:
+
+The target salary range for this position is $298,000 - $351,000. Individual compensation for this role will depend on various factors, including qualifications, skills, and applicable laws. In addition to base compensation, this role is eligible to participate in our equity incentive and competitive benefits plans, including but not limited to: flexible PTO, Medical/Dental/Vision plan options, 401(k), Teladoc Health and more.
+
+Fraud and Security Notice: 
+
+Please be aware of recent job scam attempts. Our recruiters use getgarner.com and garnerhealth.com email domains exclusively. If you have been contacted by someone claiming to be a Garner recruiter or a hiring manager from a different domain about a potential job, please report it to law enforcement here and to candidateprotection@garnerhealth.com.
+
+Equal Employment Opportunity:
+Garner Health is proud to be an Equal Employment Opportunity employer and values diversity in the workplace. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.
+
+Garner Health is committed to providing accommodations for qualified individuals with disabilities in our recruiting process. If you need assistance or an accommodation due to a disability, you may contact us at talent@garnerhealth.com. 
+
+Create a Job Alert
+
+Interested in building your career at Garner Health? Get future opportunities sent straight to your email.
+
+Create alert
+Apply for this job
+
+*
+
+indicates a required field
+
+Autofill my application
+First Name*
+Last Name*
+Preferred First Name
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile*
+What is your desired salary?*
+Are you legally authorized to work in the United States of America? *
+Select...
+Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status)?*
+Select...
+Are you currently based in or planning to relocate to the NYC area and willing to work in our NYC office 3 days a week?*
+Select...
+Which state do you currently reside in?*
+Select...
+U.S. Standard Demographic Questions
+We invite applicants to share their demographic background. If you choose to complete this survey, your responses may be used to identify areas of improvement in our hiring process.
+How would you describe your gender identity? (mark all that apply)
+Select...
+How would you describe your racial/ethnic background? (mark all that apply)
+Select...
+How would you describe your sexual orientation? (mark all that apply)
+Select...
+Do you identify as transgender?
+Select...
+Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?
+Select...
+Are you a veteran or active member of the United States Armed Forces?
+Select...
+Submit application"
+"Senior Data Analyst, Business Insights
+
+New York City, New York","https://job-boards.greenhouse.io/garnerhealth/jobs/6111663004","Garner Health","Back to jobs
+Senior Data Analyst, Business Insights
+New York City, New York
+Apply
+What you’ll be part of
+
+Garner is on a mission to transform the U.S. healthcare system — and we’re the only proven player doing exactly that. We partner with employers to redesign how healthcare works: applying 550+ proprietary clinical metrics across 80+ specialties to a dataset of 320M+ patients to identify the best-performing doctors, then using compelling incentives to steer members to the care that helps them get healthier, faster.
+
+The result is a rare “win win” — better care and lower costs for both members and employers. In just five years, our work has helped over 2.5 million people access higher-quality care and saved $1B in healthcare costs. We recently raised our Series E and have doubled five years running. If you've ever wanted your work to solve a problem that touches every person in this country, this is the opportunity to do exactly that. You'd be joining a team fundamentally reimagining healthcare in the U.S. — and using AI to scale that impact further and faster than anyone else can.
+
+About the role:
+
+We are seeking an exceptional AI-Native Data Analyst to join Garner and drive how data shapes business decisions at scale. You'll be the person the business trusts to turn fuzzy questions into the metrics, dashboards, and deep-dive analyses that decisions actually get made on — owning that work end-to-end. 
+
+Where you will work:
+
+This role will be based in our New York City office (in the Financial District). You must be willing to work in the office 3 days per week on Tuesday, Wednesday and Thursday. 
+
+What you will do:
+Own KPIs and dashboards end-to-end. Build, maintain, and govern key KPIs and dashboards across business domains, managing the full lifecycle of analytics projects from scoping to delivery.
+Be a thought partner on measurement. Partner with stakeholders to define how success is measured across Garner's products and operations.
+Build scalable data pipelines. Collaborate with the data engineering team to create maintainable pipelines that power reliable reporting.
+Develop deep domain expertise. Build a strong understanding of your analytical domain so you can independently drive meaningful insights.
+Close reporting gaps. Identify where coverage is missing and proactively develop new dashboards and insights to fill them.
+Raise the bar on data practices. Advocate for best practices in visualization, documentation, metric consistency, and stakeholder communication across teams.
+Answer high-stakes, ambiguous questions. Run deep-dive investigations into complex business problems — the kind of analysis leadership uses to make strategic calls.
+The ideal candidate has:
+5+ years of experience in Data Analytics, Business Intelligence, or a similar data-centric role.
+Cross-functional translation. Ability to translate ambiguous business questions into data-driven solutions and to work effectively with non-technical stakeholders.
+Autonomy and ownership. Comfortable working independently and owning reporting projects end-to-end.
+Automation mindset. Attention to detail with a bias toward automation and scalability over one-off work.
+AI Nativity. Comfort with and excitement about building analytics, building dashboards, and validating results by harnessing the power of AI agents.
+Making data accessible. A track record of getting stakeholders trustworthy, self-serve access to the information they need. Experience with a BI/visualization tool (Looker, Tableau, Power BI, or similar) helps — but the outcome matters more than the specific tool.
+Modern data stack. Hands-on with Snowflake (or a comparable cloud warehouse) and SQL at scale; experience with dbt strongly preferred — you'll partner with Data Management in governed pipelines, not just consume their outputs.
+A desire to be part of a high-performing, mission-driven team that operates with intense urgency, a strong sense of individual accountability, and a commitment to authentic feedback.
+
+This is a unique opportunity to join a fast-growing company in a transformative role, helping shape the future of healthcare.
+
+What you’ll get here:
+
+You’ll work on problems that matter, at a company working to change healthcare at scale. You’ll work at the intersection of AI and systemic healthcare reform, where the problems we solve are as interesting and compelling as the mission.
+
+At Garner, you’ll take on real, ambitious problems with real ownership and autonomy, alongside exceptional, principles-based people who genuinely want you to win. It’s demanding by design. You’ll be challenged to stretch beyond what you thought possible and receive consistent coaching to help you grow and do the best work of your career. This isn't the right fit for everyone, and that's intentional. The people here are driven by what's at stake for real people, and that's what gives our intensity its purpose.
+
+Compensation Transparency:
+
+The target salary range for this position is $167,000 - $210,000. Individual compensation for this role will depend on various factors, including qualifications, skills, and applicable laws. In addition to base compensation, this role is eligible to participate in our equity incentive and competitive benefits plans, including but not limited to: flexible PTO, Medical/Dental/Vision plan options, 401(k), Teladoc Health and more.
+
+Fraud and Security Notice: 
+
+Please be aware of recent job scam attempts. Our recruiters use getgarner.com and garnerhealth.com email domains exclusively. If you have been contacted by someone claiming to be a Garner recruiter or a hiring manager from a different domain about a potential job, please report it to law enforcement here and to candidateprotection@garnerhealth.com.
+
+Equal Employment Opportunity:
+Garner Health is proud to be an Equal Employment Opportunity employer and values diversity in the workplace. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.
+
+Garner Health is committed to providing accommodations for qualified individuals with disabilities in our recruiting process. If you need assistance or an accommodation due to a disability, you may contact us at talent@garnerhealth.com. 
+
+Create a Job Alert
+
+Interested in building your career at Garner Health? Get future opportunities sent straight to your email.
+
+Create alert
+Apply for this job
+
+*
+
+indicates a required field
+
+Autofill my application
+First Name*
+Last Name*
+Preferred First Name
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile*
+What is your desired salary?*
+Are you legally authorized to work in the United States of America? *
+Select...
+Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status)?*
+Select...
+Are you currently based in or planning to relocate to the NYC area and willing to work in our NYC office 3 days a week?*
+Select...
+Which state do you currently reside in?*
+Select...
+U.S. Standard Demographic Questions
+We invite applicants to share their demographic background. If you choose to complete this survey, your responses may be used to identify areas of improvement in our hiring process.
+How would you describe your gender identity? (mark all that apply)
+Select...
+How would you describe your racial/ethnic background? (mark all that apply)
+Select...
+How would you describe your sexual orientation? (mark all that apply)
+Select...
+Do you identify as transgender?
+Select...
+Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?
+Select...
+Are you a veteran or active member of the United States Armed Forces?
+Select...
+Submit application"
+"Data Analyst II, Business Insights
+
+New York City, New York","https://job-boards.greenhouse.io/garnerhealth/jobs/6118254004","Garner Health","Back to jobs
+Data Analyst II, Business Insights
+New York City, New York
+Apply
+What you’ll be part of
+
+Garner is on a mission to transform the U.S. healthcare system — and we’re the only proven player doing exactly that. We partner with employers to redesign how healthcare works: applying 550+ proprietary clinical metrics across 80+ specialties to a dataset of 320M+ patients to identify the best-performing doctors, then using compelling incentives to steer members to the care that helps them get healthier, faster.
+
+The result is a rare “win win” — better care and lower costs for both members and employers. In just five years, our work has helped over 2.5 million people access higher-quality care and saved $1B in healthcare costs. We recently raised our Series E and have doubled five years running. If you've ever wanted your work to solve a problem that touches every person in this country, this is the opportunity to do exactly that. You'd be joining a team fundamentally reimagining healthcare in the U.S. — and using AI to scale that impact further and faster than anyone else can.
+
+About the role:
+
+We are seeking an exceptional AI-Native Data Analyst to join Garner and drive how data shapes business decisions at scale. You'll be the person the business trusts to turn fuzzy questions into the metrics, dashboards, and deep-dive analyses that decisions actually get made on — owning that work end-to-end.
+
+Where you will work:
+
+This role will be based in our New York City office (in the Financial District). You must be willing to work in the office 3 days per week on Tuesday, Wednesday and Thursday. 
+
+What you will do:
+Own KPIs and dashboards end-to-end. Build, maintain, and govern key KPIs and dashboards across business domains, managing the full lifecycle of analytics projects from scoping to delivery.
+Be a thought partner on measurement. Partner with stakeholders to define how success is measured across Garner's products and operations.
+Build scalable data pipelines. Collaborate with the data engineering team to create maintainable pipelines that power reliable reporting.
+Develop deep domain expertise. Build a strong understanding of your analytical domain so you can independently drive meaningful insights.
+Close reporting gaps. Identify where coverage is missing and proactively develop new dashboards and insights to fill them.
+Raise the bar on data practices. Advocate for best practices in visualization, documentation, metric consistency, and stakeholder communication across teams.
+Answer high-stakes, ambiguous questions. Run deep-dive investigations into complex business problems — the kind of analysis leadership uses to make strategic calls.
+The ideal candidate has:
+3+ years of experience in Data Analytics, Business Intelligence, or a similar data-centric role.
+Cross-functional translation. Ability to translate ambiguous business questions into data-driven solutions and to work effectively with non-technical stakeholders.
+Autonomy and ownership. Comfortable working independently and owning reporting projects end-to-end.
+Automation mindset. Attention to detail with a bias toward automation and scalability over one-off work.
+AI Nativity. Comfort with and excitement about building analytics, building dashboards, and validating results by harnessing the power of AI agents.
+Making data accessible. A track record of getting stakeholders trustworthy, self-serve access to the information they need. Experience with a BI/visualization tool (Looker, Tableau, Power BI, or similar) helps — but the outcome matters more than the specific tool.
+Modern data stack. Hands-on with Snowflake (or a comparable cloud warehouse) and SQL at scale; experience with dbt strongly preferred — you'll partner with Data Management in governed pipelines, not just consume their outputs.
+A desire to be part of a high-performing, mission-driven team that operates with intense urgency, a strong sense of individual accountability, and a commitment to authentic feedback.
+
+This is a unique opportunity to join a fast-growing company in a transformative role, helping shape the future of healthcare.
+
+Please note: we are unable to sponsor or take over sponsorship of an employment visa at this time.
+
+What you'll get here:
+
+You’ll work on problems that matter, at a company working to change healthcare at scale. You’ll work at the intersection of AI and systemic healthcare reform, where the problems we solve are as interesting and compelling as the mission.
+
+At Garner, you’ll take on real, ambitious problems with real ownership and autonomy, alongside exceptional, principles-based people who genuinely want you to win. It’s demanding by design. You’ll be challenged to stretch beyond what you thought possible and receive consistent coaching to help you grow and do the best work of your career. This isn't the right fit for everyone, and that's intentional. The people here are driven by what's at stake for real people, and that's what gives our intensity its purpose. 
+
+Compensation Transparency:
+
+The target salary range for this position is $131,000 - $140,000. Individual compensation for this role will depend on various factors, including qualifications, skills, and applicable laws. In addition to base compensation, this role is eligible to participate in our equity incentive and competitive benefits plans, including but not limited to: flexible PTO, Medical/Dental/Vision plan options, 401(k), Teladoc Health and more.
+
+Fraud and Security Notice: 
+
+Please be aware of recent job scam attempts. Our recruiters use getgarner.com and garnerhealth.com email domains exclusively. If you have been contacted by someone claiming to be a Garner recruiter or a hiring manager from a different domain about a potential job, please report it to law enforcement here and to candidateprotection@garnerhealth.com.
+
+Equal Employment Opportunity:
+Garner Health is proud to be an Equal Employment Opportunity employer and values diversity in the workplace. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.
+
+Garner Health is committed to providing accommodations for qualified individuals with disabilities in our recruiting process. If you need assistance or an accommodation due to a disability, you may contact us at talent@garnerhealth.com. 
+
+Create a Job Alert
+
+Interested in building your career at Garner Health? Get future opportunities sent straight to your email.
+
+Create alert
+Apply for this job
+
+*
+
+indicates a required field
+
+Autofill my application
+First Name*
+Last Name*
+Preferred First Name
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile*
+What is your desired salary?*
+Are you legally authorized to work in the United States of America? *
+Select...
+Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status)?*
+Select...
+Are you currently based in or planning to relocate to the NYC area and willing to work in our NYC office 3 days a week?*
+Select...
+Which state do you currently reside in?*
+Select...
+U.S. Standard Demographic Questions
+We invite applicants to share their demographic background. If you choose to complete this survey, your responses may be used to identify areas of improvement in our hiring process.
+How would you describe your gender identity? (mark all that apply)
+Select...
+How would you describe your racial/ethnic background? (mark all that apply)
+Select...
+How would you describe your sexual orientation? (mark all that apply)
+Select...
+Do you identify as transgender?
+Select...
+Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?
+Select...
+Are you a veteran or active member of the United States Armed Forces?
+Select...
+Submit application"
+"Data Analyst III, Reporting & Analytics
+
+New York City, New York","https://job-boards.greenhouse.io/garnerhealth/jobs/6118265004","Garner Health","Back to jobs
+Data Analyst III, Reporting & Analytics
+New York City, New York
+Apply
+What you’ll be part of
+
+Garner is on a mission to transform the U.S. healthcare system — and we’re the only proven player doing exactly that. We partner with employers to redesign how healthcare works: applying 550+ proprietary clinical metrics across 80+ specialties to a dataset of 320M+ patients to identify the best-performing doctors, then using compelling incentives to steer members to the care that helps them get healthier, faster.
+
+The result is a rare “win win” — better care and lower costs for both members and employers. In just five years, our work has helped over 2.5 million people access higher-quality care and saved $1B in healthcare costs. We recently raised our Series E and have doubled five years running. If you've ever wanted your work to solve a problem that touches every person in this country, this is the opportunity to do exactly that. You'd be joining a team fundamentally reimagining healthcare in the U.S. — and using AI to scale that impact further and faster than anyone else can.
+
+About the role:
+
+We are seeking an exceptional AI-Native Data Analyst III to join our Reporting team. Our team delivers insightful, high-quality analysis to our clients on their healthcare use and their engagement with the Garner product. The team supports a combination of automated reports that we create at higher volume, and innovative custom analysis to provide insights for specific client situations. 
+
+The Data Analyst III partners with our externally-facing relationship managers to address specific client questions via custom and automated analysis. Supporting this responsibility, this role must deeply understand and improve upon the full suite of our existing automated reports, consistently identifying and implementing ways to improve their efficiency, accuracy, and client-impact.
+
+Where you will work:
+
+This role will be based in our New York City office (in the Financial District). You must be willing to work in the office 3 days per week on Tuesday, Wednesday and Thursday. 
+
+What you will do:
+Own client-facing analysis end-to-end. Build, maintain, and produce key reports for clients across our data ecosystem, from scoping to delivery.
+Be a thought partner to our client-facing teams. Use a deep understanding of our clients and the Garner product to partner with stakeholders, answering questions via analytically robust reports and presentations.
+Build scalable report automation. Collaborate with the data engineering team to create maintainable automation to create an ever-evolving suite of client reporting.
+Develop deep domain expertise. Build a strong understanding of your analytical domain so you can independently drive meaningful insights.
+Close reporting gaps. Identify gaps between the needs of our clients and our reports, proactively develop new insights to fill them.
+Raise the bar on data practices. Advocate for best practices in visualization, documentation, metric consistency, and stakeholder communication across teams.
+Answer high-stakes, ambiguous questions. Run deep-dive investigations into complex business problems — the kind of analysis leadership uses to make strategic calls.
+The ideal candidate has:
+3+ years of experience in Data Analytics, Business Intelligence, Consulting, or a similar data-centric role.
+Cross-functional translation. Ability to translate ambiguous business questions into data-driven solutions and to work effectively with non-technical stakeholders.
+Autonomy and ownership. Comfortable working independently and owning reporting projects end-to-end.
+Automation mindset. Attention to detail with a bias toward automation and scalability over one-off work.
+AI Nativity. Comfort with and excitement about building analytics, building dashboards, and validating results by harnessing the power of AI agents.
+Making data accessible. A track record of using data analysis to communicate business solutions.
+Modern data stack. Hands-on with Snowflake (or a comparable cloud warehouse) and SQL at scale; experience with dbt strongly preferred — you'll partner with Data Management in governed pipelines, not just consume their outputs.
+A desire to be part of a high-performing, mission-driven team that operates with intense urgency, a strong sense of individual accountability, and a commitment to authentic feedback.
+
+This is a unique opportunity to join a fast-growing company in a transformative role, helping shape the future of healthcare.
+
+Please note: we are unable to sponsor or take over sponsorship of an employment visa at this time.
+
+What you'll get here:
+
+You’ll work on problems that matter, at a company working to change healthcare at scale. You’ll work at the intersection of AI and systemic healthcare reform, where the problems we solve are as interesting and compelling as the mission.
+
+At Garner, you’ll take on real, ambitious problems with real ownership and autonomy, alongside exceptional, principles-based people who genuinely want you to win. It’s demanding by design. You’ll be challenged to stretch beyond what you thought possible and receive consistent coaching to help you grow and do the best work of your career. This isn't the right fit for everyone, and that's intentional. The people here are driven by what's at stake for real people, and that's what gives our intensity its purpose. 
+
+Compensation Transparency:
+
+The target salary range for this position is $149,000 - $160,000. Individual compensation for this role will depend on various factors, including qualifications, skills, and applicable laws. In addition to base compensation, this role is eligible to participate in our equity incentive and competitive benefits plans, including but not limited to: flexible PTO, Medical/Dental/Vision plan options, 401(k), Teladoc Health and more.
+
+Fraud and Security Notice: 
+
+Please be aware of recent job scam attempts. Our recruiters use getgarner.com and garnerhealth.com email domains exclusively. If you have been contacted by someone claiming to be a Garner recruiter or a hiring manager from a different domain about a potential job, please report it to law enforcement here and to candidateprotection@garnerhealth.com.
+
+Equal Employment Opportunity:
+Garner Health is proud to be an Equal Employment Opportunity employer and values diversity in the workplace. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.
+
+Garner Health is committed to providing accommodations for qualified individuals with disabilities in our recruiting process. If you need assistance or an accommodation due to a disability, you may contact us at talent@garnerhealth.com. 
+
+Create a Job Alert
+
+Interested in building your career at Garner Health? Get future opportunities sent straight to your email.
+
+Create alert
+Apply for this job
+
+*
+
+indicates a required field
+
+Autofill my application
+First Name*
+Last Name*
+Preferred First Name
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile*
+What is your desired salary?*
+Are you legally authorized to work in the United States of America? *
+Select...
+Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status)?*
+Select...
+Are you currently based in or planning to relocate to the NYC area and willing to work in our NYC office 3 days a week?*
+Select...
+Which state do you currently reside in?*
+Select...
+U.S. Standard Demographic Questions
+We invite applicants to share their demographic background. If you choose to complete this survey, your responses may be used to identify areas of improvement in our hiring process.
+How would you describe your gender identity? (mark all that apply)
+Select...
+How would you describe your racial/ethnic background? (mark all that apply)
+Select...
+How would you describe your sexual orientation? (mark all that apply)
+Select...
+Do you identify as transgender?
+Select...
+Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?
+Select...
+Are you a veteran or active member of the United States Armed Forces?
+Select...
+Submit application"
+"Senior Data Analyst, ReportingNew
+
+New York City, New York","https://job-boards.greenhouse.io/garnerhealth/jobs/6190607004","Garner Health","Back to jobs
+New
+Senior Data Analyst, Reporting
+New York City, New York
+Apply
+What you’ll be part of
+
+Garner is on a mission to transform the U.S. healthcare system — and we’re the only proven player doing exactly that. We partner with employers to redesign how healthcare works: applying 550+ proprietary clinical metrics across 80+ specialties to a dataset of 320M+ patients to identify the best-performing doctors, then using compelling incentives to steer members to the care that helps them get healthier, faster.
+
+The result is a rare “win win” — better care and lower costs for both members and employers. In just five years, our work has helped over 2.5 million people access higher-quality care and saved $1B in healthcare costs. We recently raised our Series E and have doubled five years running. If you've ever wanted your work to solve a problem that touches every person in this country, this is the opportunity to do exactly that. You'd be joining a team fundamentally reimagining healthcare in the U.S. — and using AI to scale that impact further and faster than anyone else can.
+
+About the role:
+
+We are seeking an exceptional AI-Native Senior, Data Analyst to join our Reporting team. Our team delivers insightful, high-quality analysis to our clients on their healthcare use and their engagement with the Garner product. The team supports a combination of developing new scalable reports that we create at higher volume, and innovative custom analysis to provide insights for specific client situations. 
+
+The Senior Data Analyst partners with our externally-facing relationship managers to address specific client questions via custom and automated analysis. Supporting this responsibility, this role must deeply understand and improve upon the full suite of our existing automated reports, consistently identifying and implementing ways to improve their efficiency, accuracy, and client-impact.
+
+Where you will work:
+
+This role will be based in our New York City office (in the Financial District). You must be willing to work in the office 3 days per week on Tuesday, Wednesday and Thursday. 
+
+What you will do:
+Own and own client-facing analysis end-to-end. Build, maintain, and produce key reports for clients across our data ecosystem, from scoping to delivery.
+Be a thought partner to our client-facing teams. Use a deep understanding of our clients and the Garner product to partner with stakeholders, answering questions via analytically robust reports and presentations.
+Build scalable report automation. Collaborate with the data engineering team to create maintainable automation to create an ever-evolving suite of client reporting.
+Develop deep domain expertise. Build a strong understanding of your analytical domain so you can independently drive meaningful insights.
+Identify opportunities to improve outcomes through analysis. Identify gaps between the needs of our clients and our reports, proactively develop new insights to fill them.
+Raise the bar on data practices. Advocate for best practices in visualization, documentation, metric consistency, and stakeholder communication across teams.
+Answer high-stakes, ambiguous questions. Run deep-dive investigations into complex business problems — the kind of analysis leadership uses to make strategic calls.
+The ideal candidate has:
+5+ years of experience in Data Analytics, Business Intelligence, Consulting, or a similar data-centric role.
+Cross-functional translation. Ability to translate ambiguous business questions into data-driven solutions and to work effectively with non-technical stakeholders.
+Autonomy and ownership. Comfortable working independently and owning reporting projects end-to-end.
+Automation mindset. Attention to detail with a bias toward automation and scalability over one-off work.
+AI Nativity. Comfort with and excitement about building analytics, building dashboards, and validating results by harnessing the power of AI agents.
+Making data accessible. A track record of using data analysis to communicate business solutions.
+Modern data stack. Hands-on with Snowflake (or a comparable cloud warehouse) and SQL at scale; experience with dbt strongly preferred — you'll partner with Data Management in governed pipelines, not just consume their outputs.
+A desire to be part of a high-performing, mission-driven team that operates with intense urgency, a strong sense of individual accountability, and a commitment to authentic feedback.
+
+This is a unique opportunity to join a fast-growing company in a transformative role, helping shape the future of healthcare.
+
+Compensation Transparency:
+
+The target salary range for this position is $167,000 - $210,000. Individual compensation for this role will depend on various factors, including qualifications, skills, and applicable laws. In addition to base compensation, this role is eligible to participate in our equity incentive and competitive benefits plans, including but not limited to: flexible PTO, Medical/Dental/Vision plan options, 401(k), Teladoc Health and more.
+
+Fraud and Security Notice: 
+
+Please be aware of recent job scam attempts. Our recruiters use getgarner.com and garnerhealth.com email domains exclusively. If you have been contacted by someone claiming to be a Garner recruiter or a hiring manager from a different domain about a potential job, please report it to law enforcement here and to candidateprotection@garnerhealth.com.
+
+Equal Employment Opportunity:
+Garner Health is proud to be an Equal Employment Opportunity employer and values diversity in the workplace. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.
+
+Garner Health is committed to providing accommodations for qualified individuals with disabilities in our recruiting process. If you need assistance or an accommodation due to a disability, you may contact us at talent@garnerhealth.com. 
+
+Create a Job Alert
+
+Interested in building your career at Garner Health? Get future opportunities sent straight to your email.
+
+Create alert
+Apply for this job
+
+*
+
+indicates a required field
+
+Autofill my application
+First Name*
+Last Name*
+Preferred First Name
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile*
+What is your desired salary?*
+Are you legally authorized to work in the United States of America? *
+Select...
+Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status)?*
+Select...
+Are you currently based in or planning to relocate to the NYC area and willing to work in our NYC office 3 days a week?*
+Select...
+Which state do you currently reside in?*
+Select...
+U.S. Standard Demographic Questions
+We invite applicants to share their demographic background. If you choose to complete this survey, your responses may be used to identify areas of improvement in our hiring process.
+How would you describe your gender identity? (mark all that apply)
+Select...
+How would you describe your racial/ethnic background? (mark all that apply)
+Select...
+How would you describe your sexual orientation? (mark all that apply)
+Select...
+Do you identify as transgender?
+Select...
+Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?
+Select...
+Are you a veteran or active member of the United States Armed Forces?
+Select...
+Submit application"
+"Quantitative Analyst II (Capital Structuring & Analytics)
+
+Remote US","https://job-boards.greenhouse.io/affirm/jobs/7815952003","Affirm","Quantitative Analyst II (Capital Structuring & Analytics)
+Remote US
+Apply
+
+At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+
+About the Capital Team 
+
+The Capital team manages the financial foundation that supports Affirm’s lending and innovation. We lead the funding, liquidity, and risk management strategy across capital markets, treasury, deal structuring, analytics, and bank partnerships. The team secures efficient funding while supporting sustainable business growth. We balance cost, flexibility, and risk to ensure Affirm’s financial resilience through all economic cycles. By optimizing capital structure and managing liquidity, we help build a scalable and resilient financial platform.
+
+We’re looking for a smart, driven individual to join our Quantitative Markets team. The team is responsible for structuring and pricing Affirm’s debt funding deals, developing platforms and tools for optimizing funding strategies, and building models to analyze and predict the performance of Affirm’s consumer loans. The ideal candidate will have experience in structuring asset-backed transactions, working with rating agencies, and building quantitative models. Given the cross-functional nature of the role, the ideal candidate should have strong interpersonal and communication skills.
+
+What You’ll Do
+
+Work closely with the Capital Markets team to evaluate, structure and price consumer asset-backed transactions
+
+Develop and enhance capital structuring and pricing models tailored to Affirm’s consumer loan portfolio to enable efficient deal execution
+
+Build quantitative models to analyze and predict the performance of Affirm’s consumer loans
+
+Provide insights on capital markets deals to cross-functional teams for more optimal and efficient funding strategy and merchant pricing
+
+Partner cross-functionally with our Capital Markets, Treasury, Merchant Pricing, Credit, Commercial, Product and Engineering teams to evaluate funding, product, and business decisions
+
+What We Look For
+
+2+ years of relevant experience structuring asset-backed transactions, forecasting consumer loan performance, and/or building quantitative models
+
+Experience with industry-standard tools such as Intex/Bloomberg and working with accountants, rating agencies, and internal/external partners
+
+Experience with SQL, Python, or other scripting languages
+
+Strong interpersonal and communication skills, and ability to collaborate and influence across different teams in the organization
+
+A proactive leader that can seek out new opportunities, drive projects, navigate ambiguity and develop creative solutions with minimal guidance
+
+Desire to understand the broader context of business decisions
+
+Pay Grade - K
+Equity Grade - 6
+
+Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.)
+
+USA base pay range (CA, WA, NY, NJ, CT) per year: $145,000 - $205,000
+USA base pay range (all other U.S. states) per year: $128,000 - $188,000
+#LI-Remote
+
+Remote-first with flexibility built inAffirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.
+
+Benefits designed for youOur benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:
+
+Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We’re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we’re happy to help.
+
+For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.
+
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described.
+
+Create a Job Alert
+
+Interested in building your career at Affirm? Get future opportunities sent straight to your email.
+
+Create alert
+Apply for this job
+
+*
+
+indicates a required field
+
+Autofill my application
+First Name*
+Last Name*
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile
+Current Company
+Preferred Name*
+Name Pronunciation
+Pronouns *
+Select...
+Do you require immigration sponsorship to work for Affirm in the United States?*
+Select...
+Will you require immigration sponsorship at any point in the future to maintain authorization to work in the United States?*
+Select...
+Which U.S. State or Canadian Province do you reside in?*
+Select...
+How did you first learn about Affirm as an employer? *
+Select...
+GitHub
+Twitter
+Portfolio
+Other Links
+Have you previously been employed at Affirm for any length of time?*
+Select...
+Demographic Survey Statement (US-based roles)
+
+Affirm is dedicated to building an inclusive culture where Affirmers belong and have an equal opportunity to thrive.
+
+To help us assess our outreach efforts, we invite candidates to voluntarily share information through a short demographic survey. This information is:
+
+Completely optional
+Anonymized and stored in aggregate
+Not accessible to recruiters or hiring managers at the individual level
+Never used in any hiring decision
+
+Your decision to provide or withhold this information will not impact your candidacy in any way.
+
+How do you identify? (gender identity)
+Select...
+How do you identify? (race/ethnicity)
+Select...
+Submit application"
+"Machine Learning Engineer II (Underwriting ML)
+
+Remote US","https://job-boards.greenhouse.io/affirm/jobs/7822387003","Affirm","Machine Learning Engineer II (Underwriting ML)
+Remote US
+Apply
+
+At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+
+ 
+
+On the Underwriting ML team, you’ll build and improve machine learning systems that make real-time transaction decisions, assessing the repayment risk and expected value of every Affirm checkout. You’ll work closely with experienced ML engineers, platform partners, and cross-functional stakeholders to take models from idea to prototype to production, and to keep them healthy with strong measurement and monitoring as user behavior and macroeconomic conditions evolve.
+
+ 
+
+What you’ll do
+
+- You will develop and iterate on underwriting prediction models using a mix of approaches for tabular and sequential data
+
+- You will build and scale feature pipelines and training datasets from proprietary and third-party signals, partnering with data and platform teams when needed.
+
+- You will prototype new modeling ideas and features, run offline experiments, and drive the best-performing approaches into production with appropriate risk controls.
+
+- You will help productionize models: integrate into batch and/or real-time decision systems, and improve reliability, latency, and operational robustness.
+
+- You will instrument and monitor model and data health, and help define retraining/backtesting workflows
+
+- You will collaborate across Engineering, Risk Analytics, Product, and ML Platform to define requirements, evaluate tradeoffs, and communicate results clearly to both technical and non-technical audiences.
+
+ 
+
+What we look for
+
+- You have a total of 2+ years of experience as a machine learning engineer or a PhD in a relevant field.
+
+- Strong Python skills and experience writing production-quality code.
+
+- Experience building and evaluating models for classification problems (preferably gradient-boosted decision trees like LightGBM/XGBoost/CatBoost, or similar).
+
+- Experience with a deep learning framework (PyTorch preferred).
+
+- Experience working with distributed data processing or parallel compute frameworks (Spark preferred; Ray/Dask or similar).
+
+- Experience with ML lifecycle tooling for training orchestration, experimentation, and model monitoring (e.g., Kubeflow, Airflow, MLflow, or equivalent internal platforms).
+
+- Proficient in using AI-powered developer tools (e.g., Claude Code, Cursor, or similar) to accelerate iteration, debugging, and code quality as part of day-to-day development workflows.
+
+- You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code.
+
+- You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews.
+
+- Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.
+
+- You have strong verbal and written communication skills that support effective collaboration with our global engineering team.
+
+- This position requires either equivalent practical experience or a Bachelor’s degree in a related field
+
+
+Pay Grade - L
+Equity Grade - 6
+
+Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.
+
+Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.)
+
+USA base pay range (CA, WA, NY, NJ, CT) per year: $165,000 - $225,000
+USA base pay range (all other U.S. states) per year: $146,000 - $206,000
+
+#LI-Remote
+
+Remote-first with flexibility built inAffirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.
+
+Benefits designed for youOur benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:
+
+Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We’re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we’re happy to help.
+
+For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.
+
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described.
+
+Create a Job Alert
+
+Interested in building your career at Affirm? Get future opportunities sent straight to your email.
+
+Create alert
+Apply for this job
+
+*
+
+indicates a required field
+
+Autofill my application
+First Name*
+Last Name*
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile
+Current Company
+Preferred Name*
+Name Pronunciation
+Pronouns *
+Select...
+Do you require immigration sponsorship to work for Affirm in the United States?*
+Select...
+Will you require immigration sponsorship at any point in the future to maintain authorization to work in the United States?*
+Select...
+Which U.S. State or Canadian Province do you reside in?*
+Select...
+How did you first learn about Affirm as an employer? *
+Select...
+GitHub
+Twitter
+Portfolio
+Other Links
+Have you previously been employed at Affirm for any length of time?*
+Select...
+Demographic Survey Statement (US-based roles)
+
+Affirm is dedicated to building an inclusive culture where Affirmers belong and have an equal opportunity to thrive.
+
+To help us assess our outreach efforts, we invite candidates to voluntarily share information through a short demographic survey. This information is:
+
+Completely optional
+Anonymized and stored in aggregate
+Not accessible to recruiters or hiring managers at the individual level
+Never used in any hiring decision
+
+Your decision to provide or withhold this information will not impact your candidacy in any way.
+
+How do you identify? (gender identity)
+Select...
+How do you identify? (race/ethnicity)
+Select...
+Voluntary Self-Identification
+
+For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+
+As set forth in Affirm’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+
+Gender
+Select...
+Are you Hispanic/Latino?
+Select...
+Race & Ethnicity Definitions
+
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:
+
+A ""disabled veteran"" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+
+A ""recently separated veteran"" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+
+An ""active duty wartime or campaign badge veteran"" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+
+An ""Armed forces service medal veteran"" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+
+Veteran Status
+Select...
+Voluntary Self-Identification of Disability
+Form CC-305
+Page 1 of 1
+OMB Control Number 1250-0005
+Expires 07/31/2029
+
+Why are you being asked to complete this form?
+
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at www.dol.gov/ofccp.
+
+How do you know if you have a disability?
+
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability. Disabilities include, but are not limited to:
+
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+Disability Status
+Select...
+
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+Submit application"
+"Senior Machine Learning Engineer (Fraud)
+
+Remote Canada","https://job-boards.greenhouse.io/affirm/jobs/7806920003","Affirm","Senior Machine Learning Engineer (Fraud)
+Remote Canada
+Apply
+
+At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.
+
+On the ML Fraud team, you’ll build and improve machine learning systems that make real-time transaction decisions, protecting consumers and merchants while balancing fraud loss, customer experience, and conversion. You’ll work closely with experienced ML engineers, platform partners, and cross-functional stakeholders to take models from idea to prototype to production, and to keep them healthy with strong measurement and monitoring as fraud patterns evolve.
+
+
+ 
+
+What you’ll do
+
+- You will lead development of new fraud prediction models using a mix of approaches for tabular, graph, and behavioral data
+
+- You will build and scale feature pipelines and training datasets from proprietary and third-party signals, partnering with data and platform teams when needed. 
+
+- You will prototype new modeling ideas and features, run offline experiments, and drive the best-performing approaches into production with appropriate risk controls. 
+
+- You productionize models: integrate into batch and/or real-time decision systems, and improve reliability, latency, and operational robustness. 
+
+- You will instrument and monitor model and data health, and help define retraining/backtesting workflows as fraud patterns evolve.
+
+- Identify and implement foundational improvements to how the team builds models.
+
+- You will collaborate across Engineering, Fraud Analytics, Product, and ML Platform to define requirements, evaluate tradeoffs, and communicate results clearly to both technical and non-technical audiences. 
+
+ 
+
+What we look for
+
+- You have 6+ years experience researching, training, tuning and launching ML models at scale. Relevant PhD can count for up to 2 years of experience.
+
+- Track record of delivering high impact machine learning models in a low latency live setting
+
+- Strong Python skills and experience writing production-quality code.
+
+- Experience building and evaluating models for tabular classification problems (preferably gradient-boosted decision trees like LightGBM/XGBoost/CatBoost, or similar). 
+
+- Experience with a deep learning framework (PyTorch preferred).
+
+- Experience working with distributed data processing or parallel compute frameworks (Spark preferred; Ray/Dask or similar). 
+
+- Experience with ML lifecycle tooling for training orchestration, experimentation, and model monitoring (e.g., Kubeflow, Airflow, MLflow, or equivalent internal platforms).
+
+- Proficient in using AI-powered developer tools (e.g., Claude Code, Cursor, or similar) to accelerate iteration, debugging, and code quality as part of day-to-day development workflows.
+
+- You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code.
+
+- You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews.
+
+- Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.
+
+- You have strong verbal and written communication skills that support effective collaboration with our global engineering team.
+
+Pay Grade - N
+Equity Grade - 6
+
+Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills. 
+
+Base pay is part of a total compensation package that may include monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents). In addition, the employees may be eligible for equity rewards offered by Affirm Holdings, Inc. (parent company).
+
+CAN base pay range per year: $153,000 - $213,000
+
+
+
+Location - Remote Canada
+
+This remote role is open only to candidates residing in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, or Saskatchewan. 
+
+#LI-Remote
+
+Remote-first with flexibility built inAffirm is proud to be a remote-first company. Most roles can be done from almost anywhere within the country of employment. Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work. All new hires will be invited to attend an in-person onboarding experience.
+
+Benefits designed for youOur benefits reflect our commitment to care, transparency, and flexibility. Here are a few highlights:
+
+Health coverage at no cost: We cover 100% of premiums for employees and their dependents.
+Spending stipends: Monthly stipends support your tech setup, and the ability to choose health and wellness options that are right for you.
+Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.
+Own a piece of what you build: Our employee stock purchase plan (ESPP) lets you buy Affirm stock at a discount.
+
+We’re committed to providing an inclusive interview process, including accommodations for candidates with disabilities. If you need support, we’re happy to help.
+
+For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.
+
+By clicking ""Submit Application,"" you acknowledge that you have read Affirm's Global Candidate Privacy Notice and consent to the use of your personal information as described.
+
+Create a Job Alert
+
+Interested in building your career at Affirm? Get future opportunities sent straight to your email.
+
+Create alert
+Apply for this job
+
+*
+
+indicates a required field
+
+Autofill my application
+First Name*
+Last Name*
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile
+Current Company
+Preferred Name*
+Name Pronunciation
+Pronouns *
+Select...
+Do you now, or will you in the future, require immigration sponsorship to work for Affirm in Canada?*
+Select...
+Which U.S. State or Canadian Province do you reside in?*
+Select...
+How did you first learn about Affirm as an employer? *
+Select...
+GitHub
+Twitter
+Portfolio
+Other Links
+Have you previously been employed at Affirm for any length of time?*
+Select...
+Submit application"
+"Senior Data Engineer
+
+Bangalore, Hybrid","https://job-boards.greenhouse.io/arcanaanalytics/jobs/4005210009","Arcana Analytics","Back to jobs
+Senior Data Engineer
+Bangalore, Hybrid
+Apply
+
+ 
+
+Join our dynamic team at the forefront of cutting-edge technology as we seek a seasoned Senior Data Engineer. Embark on a journey where your deep-rooted expertise in computer science fundamentals, alongside an intricate understanding of data structures, algorithms, and system design, becomes the cornerstone of innovative solutions. This pivotal role not only demands your proficiency in developing and elevating compute and I/O-intensive applications but also ensures their peak performance and unwavering reliability.
+
+Responsibilities:
+
+Develop and implement real-time data ingestion and processing systems.
+Design, build, and operationalize large-scale enterprise data solutions and applications.
+Create and manage production data pipelines, from ingestion to consumption, within a big data architecture using PySpark.
+Leverage expertise in Python, Airflow, SQL, and cloud platforms to build robust solutions (strong knowledge of these is essential).
+Translate complex business challenges into scalable and efficient technical solutions.
+Work collaboratively with a high-performing data engineering team, owning the full lifecycle of solution implementation.
+
+Requirements:
+
+Bachelor's Degree in Computer Science, Information Technology, or a similar discipline.
+3 - 8 years of professional experience in data engineering or related fields.
+Proven experience with ETL processes, data integration, and handling large-scale datasets using PySpark.
+Strong understanding of data engineering concepts like ETL, near/real-time streaming, data structures, and workflow management.
+Experience with version control tools like Git/GitHub.
+Proficiency in SQL and Data Warehouse concepts.
+Experience working with SQL or NoSQL databases like Cassandra, MongoDB, or HBase.
+Knowledge of AWS technologies such as EMR, RedShift, Kinesis, Lambda, Glue, S3 IAM, CloudWatch, and big data tools like Hadoop/EMR, Hive, and Sqoop.
+
+ 
+
+Apply for this job
+
+*
+
+indicates a required field
+
+First Name*
+Last Name*
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Location (City)*
+Locate me
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile*
+Website
+Submit application"
+"Senior Data Scientist
+
+Bangalore, Hybrid","https://job-boards.greenhouse.io/arcanaanalytics/jobs/4005206009","Arcana Analytics","Back to jobs
+Senior Data Scientist
+Bangalore, Hybrid
+Apply
+
+ 
+
+We're looking for a dynamic Senior Data Scientist to join our team, working alongside our founders, financial analysts, product managers, and engineers. This is your chance to get hands-on with massive datasets, crafting the metrics that matter to institutional investors worldwide. For those who are curious and passionate about financial technologies, this is a great opportunity to work at an extremely well-capitalized startup with a proven team of senior financial and tech industry talent to build the future of investing tools.
+
+Responsibilities:
+
+Work with large and complex data sets and derive investment-relevant metrics in close partnership with financial analysts and engineers.
+Apply knowledge of statistics, programming, data modeling, simulation, and advanced mathematics to recognize patterns, identify opportunities, pose business questions, and make valuable discoveries leading to the development of fundamental metrics needed to evaluate various assets.
+Implement the risk factor model using advanced statistical and programming techniques, ensuring its performance aligns with the proposed design.
+Conduct rigorous testing and validation of the model to ensure its effectiveness in identifying, quantifying, and managing various risk factors.
+Build customer-facing metrics and dashboards.
+Work closely with analysts, engineers, and Product Managers and provide feedback as we develop our data analytics and research platform.
+
+Requirements:
+
+Bachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent practical experience (or) degree in an analytical field (e. g. Computer Science, Engineering, Mathematics, Statistics, Operations Research, Management Science). IIT preferred.
+3+ years of experience with data analysis and metrics development.
+3+ years of experience analyzing and interpreting data, drawing conclusions, defining recommended actions, and reporting results across stakeholders.
+2+ years of experience writing SQL queries.
+2+ years of experience scripting in Python.
+Interested in learning new technologies to solve customer needs with lots of creative freedom.
+Strong communication skills and business acumen.
+Self-starter, motivated by an interest in developing the best possible solutions to problems.
+Strong SQL and Python programming skills.
+Experience with Airflow, Google BigQuery, and Clickhouse is a plus.
+
+ 
+
+Apply for this job
+
+*
+
+indicates a required field
+
+First Name*
+Last Name*
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Location (City)*
+Locate me
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile*
+Website
+Submit application"
+"Staff Software Engineer (Data Platform)
+
+Bangalore, Hybrid","https://job-boards.greenhouse.io/arcanaanalytics/jobs/4157531009","Arcana Analytics","Back to jobs
+Staff Software Engineer (Data Platform)
+Bangalore, Hybrid
+Apply
+
+Staff Software Engineer (Data Platform)
+Join our dynamic team at the forefront of cutting-edge technology as we seek a seasoned Staff Data Engineer. Embark on a journey where your deep-rooted expertise in distributed systems, data architectures, and large-scale processing becomes the cornerstone of building high-performance data platforms. This pivotal role demands proficiency in designing and scaling compute and I/O-intensive data systems, ensuring reliability, efficiency, and cost optimization across the data lifecycle.
+
+Responsibilities:
+● Design and build scalable data platform components for batch and real-time data processing.
+● Architect, develop, and operationalize large-scale data systems across ingestion, transformation, and serving layers.
+● Build and manage robust data pipelines ensuring high reliability, scalability, and cost efficiency.
+● Develop reusable frameworks and tooling to accelerate productivity for data engineers and data scientists.
+● Leverage expertise in Python, Airflow, SQL, and cloud platforms to build production-grade data solutions.
+● Optimize query performance and data models using strong understanding of columnar OLAP systems such as ClickHouse, Doris, and StarRocks.
+● Implement streaming and near real-time data processing systems.
+● Translate complex business requirements into scalable and efficient data platform solutions.
+● Work collaboratively with cross-functional teams and provide technical leadership and mentorship.
+● Drive architectural decisions by evaluating tradeoffs and selecting the right tools for the problem.
+
+Requirements:
+● Bachelor's Degree in Computer Science, Information Technology, or a similar discipline.
+● 8+ years of professional experience in data engineering, backend systems, or distributed systems.
+● Proven experience building scalable data platforms and large-scale data systems.
+● Strong experience with ETL pipelines, data integration, and workflow orchestration systems such as Airflow or Temporal.
+● Hands-on experience in Python and SQL with strong understanding of data warehouse concepts.
+● Experience working with distributed OLTP/OLAP databases such as ClickHouse, PostgreSQL, Cassandra, or Elasticsearch.
+● Knowledge of messaging and streaming systems such as Kafka.
+● Experience with cloud platforms (AWS/GCP) and big data tools such as Spark.
+● Strong understanding of columnar storage systems and query optimization techniques.
+● Solid understanding of distributed systems fundamentals and associated tradeoffs.
+● Experience working with containers and orchestration tools such as Docker and Kubernetes.
+● Strong Linux fundamentals and system-level debugging skills.
+● Familiarity with modern data architectures such as Lakehouse (Iceberg, Hudi, Delta) is a plus.
+
+Apply for this job
+
+*
+
+indicates a required field
+
+First Name*
+Last Name*
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Location (City)*
+Locate me
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile*
+Website
+Submit application"
+"Data Analyst
+
+Coimbatore/Bangalore/Remote","https://job-boards.greenhouse.io/arcanaanalytics/jobs/4110676009","Arcana Analytics","Back to jobs
+Data Analyst
+Coimbatore/Bangalore/Remote
+Apply
+
+Arcana is a portfolio intelligence platform used by hedge funds and asset managers to analyze performance and risk. We’re rethinking the tools institutional investors rely on—and we’re hiring analysts who want to help drive that transformation.
+
+We are looking for a Data Analyst to work with large-scale financial datasets, ensure high data quality, and deliver actionable insights through dashboards and reports.
+The role focuses on building and maintaining robust data quality frameworks and collaborating closely with internal and external stakeholders at scale.
+
+Responsibilities
+
+Manage and analyze large volumes of daily financial data
+Design, implement, and continuously improve data quality frameworks
+Perform data validation, reconciliation, and monitoring
+Resolve Level 1 & Level 2 data quality issues; escalate complex issues to Data Science teams
+Use SQL and Python for data analysis, scripting, and development
+Build and maintain dashboards and reports for business insights
+Work with large-scale datasets (100TB+) covering 100K+ global companies
+Apply statistical techniques to monitor data accuracy and anomalies
+Collaborate with cross-functional teams and share insights with stakeholders
+
+Requirements
+
+Strong understanding of data quality, validation, and reconciliation concepts
+Advanced SQL skills (complex queries, joins, performance optimization)
+Proficiency in Python for data analysis and scripting
+Experience with dashboarding and reporting tools
+Ability to work in large-scale / big data environments
+Working knowledge of statistics for data monitoring and validation
+Strong communication and stakeholder management skills
+Experience handling data from multiple and diverse sources
+
+Qualifications
+
+Bachelor’s degree in BCA / MCA / Engineering
+CGPA: 8+
+Prior experience in Finance / FinTech preferred
+Exposure to financial datasets is a plus
+Apply for this job
+
+*
+
+indicates a required field
+
+First Name*
+Last Name*
+Preferred First Name
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Location (City)*
+Locate me
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile
+Website
+Submit application"
+"Data Associate
+
+Coimbatore","https://job-boards.greenhouse.io/arcanaanalytics/jobs/4005202009","Arcana Analytics","Back to jobs
+Data Associate
+Coimbatore
+Apply
+
+ 
+
+We are seeking a detail-oriented Data Associate to join our growing team. As a Data Associate, you will work closely with our product managers, financial analysts, and engineers to ensure high-quality data integration, analysis, and maintenance. The ideal candidate will have a passion for working with large datasets, a strong analytical mindset, and a desire to make an impact in the financial technology space.
+
+Responsibilities:
+
+Work with large datasets to ensure data accuracy, consistency, and integrity across databases.
+Partner with Product and Engineering teams to identify and implement process improvements and automation tools to enhance data quality and operational efficiency.
+Support internal teams by creating and maintaining internal reports and dashboards.
+Diagnose and highlight data pipeline issues, escalating complex problems as needed.
+Respond promptly to data-related inquiries and requests from clients, internal teams (Sales, Services), and external data providers/partners.
+Collaborate with regional teams on shared operational workflows and cross-functional projects.
+Maintain and update team resources and procedural documentation, and ensure accurate recording of metrics for internal reporting and analytics.
+Conduct daily verification checks to ensure the accuracy and timely availability of client portfolio data, adhering to defined SLAs.
+
+Requirements:
+
+Bachelor's degree in a relevant field (Mathematics, Statistics, Data Science, Finance, Economics, or related disciplines).
+GPA of 8.0+ is required
+Strong understanding of data management and analytics.
+Proficiency in Excel and/or other data analysis tools.
+Excellent communication and interpersonal skills for engaging with internal and external data partners.
+Consistent track record of multitasking and prioritizing effectively in a fast-paced environment, and remaining calm under pressure.
+Open to working flexible hours (early morning, day shift, evening shift)
+
+ 
+
+Apply for this job
+
+*
+
+indicates a required field
+
+First Name*
+Last Name*
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Location (City)*
+Locate me
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile*
+Website
+Submit application"
+"Portfolio Data Analyst
+
+Coimbatore","https://job-boards.greenhouse.io/arcanaanalytics/jobs/4005204009","Arcana Analytics","Back to jobs
+Portfolio Data Analyst
+Coimbatore
+Apply
+
+ 
+
+We are seeking dynamic Portfolio Data Analysts to join our team and collaborate closely with our founders, financial analysts, product managers, and engineers. In this role, you'll play a pivotal part in supporting our client onboarding and success team. You'll need a strong ability to analyze financial data, translate insights into actionable strategies, and effectively guide clients through our platform's features to drive their success.
+
+Responsibilities:
+
+Analyze and onboard portfolio data from various sources into Arcana's data integration ecosystem.
+Collaborate with engineering, product management, and data operations teams to deliver high-quality, timely, and reliable data solutions through Arcana's platform.
+Work with a range of third-party data providers to integrate their data into Arcana's system.
+Develop and support data aggregation solutions based on client and third-party content, tailored to user workflow needs.
+Collaborate with user experience, design, and project management teams to develop data-oriented workflow solutions and product enhancements.
+Analyze and implement solutions to improve data operations and pipeline efficiency.
+Understand Arcana's products and clients, working closely with internal stakeholders to identify new opportunities to serve clients and grow the business.
+Contribute to the evolution of Arcana's financial data solutions, ensuring the platform remains a leading integrator of market-traded and alternative asset data.
+
+Requirements:
+
+GPA of 8.0+
+Data analysis experience with exposure to finance and investment management.
+Strong communication and interpersonal skills for collaborating with vendors, clients, and internal teams.
+Ability to communicate complex ideas, problems, and solutions clearly both verbally and in writing for development, sales, clients, and third-party data providers.
+Ability to work with engineering teams to define functional and technical solutions to business problems, including a solid understanding of data development, data modeling, and writing/reviewing technical documentation.
+A passion for the finance and technology space, with a focus on solving complex problems in the investment management industry.
+Experience working with financial data and concepts relevant to Arcana's clients and products is highly preferred.
+
+ 
+
+Apply for this job
+
+*
+
+indicates a required field
+
+First Name*
+Last Name*
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Location (City)*
+Locate me
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile*
+Website
+Submit application"
+"Machine Learning Engineer, Platform
+
+London, UK","https://job-boards.greenhouse.io/scaleai/jobs/4711544005","Scale AI","Back to jobs
+Machine Learning Engineer, Platform
+London, UK
+Apply
+
+Machine Learning EngineerLondon, UK
+
+About the role
+
+Applied Intelligence Systems (AIS) is part of the Scale Generative AI Platform (SGP), focused on pushing the frontier of what agentic applications can do across diverse enterprise and government use cases. We build the infrastructure and tooling that power agentic AI in production, paired with applied ML research, design, and evaluation to ensure these systems perform reliably at the scale our customers demand. AIS spans multiple workstreams — agent evaluation and oversight, orchestration and tool-use infrastructure, model and systems optimization, and applied research on new agent capabilities. This role owns the context and memory capabilities within AIS, including their correctness, performance, and evaluation. 
+
+We are looking for a Machine Learning Engineer who can own hard technical problems end to end — from research and prototyping through to production deployment — working across knowledge bases, vector stores, RAG pipelines, and context engines to power agents that deliver real impact for enterprise customers. 
+
+What you'll do
+
+Own large areas of the platform end to end, from design through to production deployment.
+Work on knowledge representation systems, including ontologies and knowledge graphs, to support structured reasoning over enterprise data.
+Design and implement RAG pipelines, including chunking, embedding, indexing, retrieval, and reranking.
+Build and maintain integrations between retrieval and ML components and diverse enterprise data sources, vector databases, APIs, and services.
+Develop context retrieval systems that balance recall, precision, latency, and cost.
+Build evaluation frameworks, datasets, and metrics to measure retrieval quality, context relevance, and end to end agent performance.
+Build reliable backend services and data pipelines that support ML and LLM components in production.
+Deliver experiments and new capabilities quickly, maintaining high quality and tight feedback loops with customers.
+Collaborate across product, ML, and infrastructure teams to shape the direction of the platform.
+
+What we look for
+
+5+ years of experience building and deploying machine learning or AI systems for real-world, production use cases.
+Strong engineering fundamentals, supported by a Master’s or PhD degree in Computer Science, Machine Learning, AI, or equivalent practical experience..
+A deep, hands-on understanding of retrieval systems, RAG, embeddings, vector indexing, knowledge representation, and semantic search.
+Proven proficiency in Python, including writing production-quality, testable, and maintainable code.
+The ability to operate in ambiguous problem spaces, balancing research-driven approaches with pragmatic product constraints.
+Strong communication skills and comfort working in customer-facing or cross-functional environments.
+Experience scaling products at hyper growth startups
+
+PLEASE NOTE: Our policy requires a 90-day waiting period before reconsidering candidates for the same role. This allows us to ensure a fair and thorough evaluation of all applicants.
+
+About Us:
+
+At Scale, our mission is to develop reliable AI systems for the world's most important decisions. Our products provide the high-quality data and full-stack technologies that power the world's leading models, and help enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Ernst & Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. We are expanding our team to accelerate the development of AI applications.
+
+We believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status. 
+
+We are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at accommodations@scale.com. Please see the United States Department of Labor's Know Your Rights poster for additional information.
+
+We comply with the United States Department of Labor's Pay Transparency provision. 
+
+PLEASE NOTE: We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants’ needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data. Please see our privacy policy for additional information.
+
+Create a Job Alert
+
+Interested in building your career at Scale AI? Get future opportunities sent straight to your email.
+
+Create alert
+Apply for this job
+
+*
+
+indicates a required field
+
+Autofill my application
+First Name*
+Last Name*
+Preferred First Name
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Location (City)*
+Locate me
+Resume/CV
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile (linkedin.com/in/<YOUR_ID>)*
+Website
+Tell us something you want us to know about yourself. It can be anything. Please answer in less than 200 words
+
+Some ideas: 
+
+- What’s the hardest thing you’ve ever done?
+- Why do you want to be a part of scale?
+- What makes you a good candidate for this role?
+- What would you improve about the company?
+
+What is the earliest that you can start?
+How would you characterize your technical skills? *
+Select...
+
+The role requires the ability to do data analytics using SQL or Python
+
+Are you open to working in person in our San Francisco or New York office 3 times a week?
+Select...
+Are you currently bound by any agreements with a current or former employer that may restrict your ability to work for Scale AI or perform the duties of the position for which you are applying? This includes, but is not limited to, non-compete agreements, non-solicitation agreements, confidentiality or non-disclosure agreements, or any other contractual obligations that could limit your employment activities.*
+Select...
+If yes, please provide further explanation below.
+Are you legally authorized to work in the country where the job is located?*
+Select...
+Will you now or in the future require company sponsorship to retain or extend your work authorization in the country where the job is located?*
+Select...
+Who is your current or most recent employer?*
+What is your current or more recent job title?*
+Submit application"
+"Senior/Staff Machine Learning Research Engineer, General Agents, Enterprise GenAI
+
+San Francisco, CA; New York, NY","https://job-boards.greenhouse.io/scaleai/jobs/4658162005","Scale AI","Back to jobs
+Senior/Staff Machine Learning Research Engineer, General Agents, Enterprise GenAI
+San Francisco, CA; New York, NY
+Apply
+
+Scale AI is the data foundation for AI, helping organizations build and deploy reliable production AI applications. We partner with leading enterprises and government organizations to accelerate their AI initiatives through our data annotation platform, generative AI solutions, and enterprise AI capabilities.
+
+About the General Agents Team
+
+The General Agents team, part of Scale’s Enterprise organization, builds robust general agents for customer use cases and applications. The team sits at the intersection of frontier agent development and real-world deployment, translating state-of-the-art reasoning and agentic capabilities into reliable, production-grade systems that drive real economic value. Our agents are scalable systems built around recurring enterprise problem domains, with a strong emphasis on generalization, extensibility, and deployment across many customers.
+
+About the Role
+
+As a Senior/Staff Machine Learning Engineer (MLE) on the General Agents team, you’ll play a critical role in designing, building, and deploying production-ready AI agents that solve high-impact enterprise problems. You will work across the full agent lifecycle—from model and system design to evaluation, deployment, and iteration—bridging cutting-edge agentic techniques with the constraints and requirements of real customer environments.
+
+ 
+
+You will:
+
+Design and implement end-to-end agent systems that combine LLM reasoning, tool use, memory, and control logic to solve recurring enterprise use cases.
+Build scalable, reliable agent architectures that can be deployed across many customers with varying data, tools, and constraints.
+Develop evaluation frameworks, datasets, environments, and metrics to measure agent performance, reliability, and business impact in production settings.
+Collaborate closely with product managers, customers, data annotators, and other engineering teams to translate enterprise requirements into robust agent designs.
+Productionize frontier agent techniques (e.g., planning, multi-step reasoning and tool-use, multi-agent patterns) into maintainable, observable systems.
+Own deployment, monitoring, and iteration of agent systems, including failure analysis and continuous improvement based on real-world usage.
+Contribute to technical direction and architectural decisions for general agent development best practices and methods, with increasing scope and leadership at the Staff level.
+
+ 
+
+Ideally you’d have:
+
+5+ years of experience building and deploying machine learning or AI systems for real-world, production use cases.
+Strong engineering fundamentals, supported by a Bachelor’s and/or Master’s degree in Computer Science, Machine Learning, AI, or equivalent practical experience.
+Deep understanding of modern LLMs, prompt-, context-, and system-level optimization, and agentic system design.
+Proven proficiency in Python, including writing production-quality, testable, and maintainable code.
+Experience building systems that integrate models with external tools, APIs, databases, and services.
+Ability to operate in ambiguous problem spaces, balancing research-driven approaches with pragmatic product constraints.
+Strong communication skills and comfort working in customer-facing or cross-functional environments.
+
+ 
+
+Nice-to-haves:
+
+Hands-on experience building AI agents using modern generative AI stacks (OpenAI APIs, commercial or open-source LLMs).
+Experience with agent frameworks, orchestration layers, or workflow systems (e.g., tool calling, planners, multi-agent setups).
+Familiarity with evaluation, monitoring, and observability for LLM-powered systems in production.
+Experience deploying ML systems in cloud environments and operating them at scale.
+Experience fine-tuning or adapting foundation models using methods like supervised fine-tuning (SFT), reinforcement learning with verifiable rewards (RLVR), and low-rank adaptation (LoRA) to improve agent performance on domain-specific tasks.
+Interest in shaping the future of general-purpose enterprise agents and their real-world impact.
+Compensation packages at Scale for eligible roles include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position and may be inclusive of several career levels at Scale; it will be determined during the interview process based on work location and additional factors, including job-related skills, experience, qualifications, interview performance, and relevant education or training. Scale employees in eligible roles are also granted equity based compensation, subject to Board of Director approval. Your recruiter can share more about the specific salary range for your preferred location during the hiring process, and confirm whether the hired role will be eligible for equity grant. You'll also receive benefits including, but not limited to: comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.
+
+Please reference the job posting's subtitle for where this position will be located. For pay transparency purposes, the base salary range for this full-time position in the locations of San Francisco, New York, Seattle is:
+
+$264,800 - $331,000USD
+
+PLEASE NOTE: Our policy requires a 90-day waiting period before reconsidering candidates for the same role. This allows us to ensure a fair and thorough evaluation of all applicants.
+
+About Us:
+
+At Scale, our mission is to develop reliable AI systems for the world's most important decisions. Our products provide the high-quality data and full-stack technologies that power the world's leading models, and help enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Ernst & Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. We are expanding our team to accelerate the development of AI applications.
+
+We believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status. 
+
+We are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at accommodations@scale.com. Please see the United States Department of Labor's Know Your Rights poster for additional information.
+
+We comply with the United States Department of Labor's Pay Transparency provision. 
+
+PLEASE NOTE: We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants’ needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data. Please see our privacy policy for additional information.
+
+Create a Job Alert
+
+Interested in building your career at Scale AI? Get future opportunities sent straight to your email.
+
+Create alert
+Apply for this job
+
+*
+
+indicates a required field
+
+Autofill my application
+First Name*
+Last Name*
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Location (City)*
+Locate me
+Resume/CV*
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile
+Website
+Are you open to working in person in our San Francisco or New York office 3 times a week?
+Select...
+Are you currently bound by any agreements with a current or former employer that may restrict your ability to work for Scale AI or perform the duties of the position for which you are applying? This includes, but is not limited to, non-compete agreements, non-solicitation agreements, confidentiality or non-disclosure agreements, or any other contractual obligations that could limit your employment activities.*
+Select...
+If yes, please provide further explanation below.
+Are you legally authorized to work in the country where the job is located?*
+Select...
+Will you now or in the future require company sponsorship to retain or extend your work authorization in the country where the job is located?*
+Select...
+Voluntary Self-Identification
+
+For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+
+As set forth in Scale AI’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+
+Gender
+Select...
+Are you Hispanic/Latino?
+Select...
+Race & Ethnicity Definitions
+
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:
+
+A ""disabled veteran"" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+
+A ""recently separated veteran"" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+
+An ""active duty wartime or campaign badge veteran"" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+
+An ""Armed forces service medal veteran"" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+
+Veteran Status
+Select...
+Voluntary Self-Identification of Disability
+Form CC-305
+Page 1 of 1
+OMB Control Number 1250-0005
+Expires 07/31/2029
+
+Why are you being asked to complete this form?
+
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at www.dol.gov/ofccp.
+
+How do you know if you have a disability?
+
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability. Disabilities include, but are not limited to:
+
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+Disability Status
+Select...
+
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+Submit application"
+"Staff/Senior Machine Learning Research Engineer, Intelligent Systems
+
+San Francisco, CA; New York, NY","https://job-boards.greenhouse.io/scaleai/jobs/4714527005","Scale AI","Back to jobs
+Staff/Senior Machine Learning Research Engineer, Intelligent Systems
+San Francisco, CA; New York, NY
+Apply
+About Scale
+
+Scale’s mission is to develop reliable AI systems for the world’s most important decisions. As the leading AI data foundry, we provide the high-quality data and full-stack technologies that power the world’s most advanced models — fueling breakthroughs in generative AI, defense, and autonomous vehicles. We partner with leading enterprises and governments to bring AI into production that performs when it matters most, combining rigorous evaluation with full-stack deployment so our customers can build AI they can trust.
+
+About the Team
+
+Applied Intelligence Systems (AIS) is part of the Scale Generative AI Platform (SGP), focused on pushing the frontier of what agentic applications can do across diverse enterprise and government use cases. We build the infrastructure and tooling that power agentic AI in production, paired with applied ML research, design, and evaluation to ensure these systems perform reliably at the scale our customers demand. AIS spans multiple workstreams — agent evaluation and oversight, orchestration and tool-use infrastructure, model and systems optimization, and applied research on new agent capabilities — and this role is not scoped to any single one of them. We’re growing fast, with increasing traction across both commercial and public sector customers, and we’re just getting started — this team will define what dependable, production-grade agentic AI looks like.
+
+About the Role
+
+As a Staff Machine Learning Research Engineer, you will operate across the full breadth of AIS’s technical needs — wherever the hardest ML problem in agentic AI happens to be that quarter. This could mean training and fine-tuning models, designing evaluation and observability systems, building improvement loops from production data, prototyping novel agent architectures, or designing internal systems and tooling that boost productivity across teams. You’re not tied to one team’s roadmap; you’re expected to move to where the technical leverage is highest, and to set the AI/ML technical direction across AIS — the methods, architectures, and standards other teams build on, not just your own workstream. This is a hands-on research and engineering role at staff scope: you’ll write code — training pipelines, evaluation systems, infrastructure, or whatever the problem calls for — and ship production systems yourself, while also setting AIML technical direction and raising the bar for engineers and scientists across AIS.
+
+You will:
+Move across AIS’s core problem areas as needed — training/fine-tuning, inference, memory and retrieval, evaluation and observability, orchestration and tool-use infrastructure, applied research on new agent capabilities — going wherever the technical leverage is highest rather than owning one fixed surface
+Research and prototype novel methods for agent performance improvement in a production/enterprise-ready setting — continuous learning loops, automated curriculum or data generation from production traces, online or offline RL — and validate them with rigorous experiments before they ship, making the call on where to build new infrastructure versus apply existing methods
+Build AI agents and internal tooling that reduce bottlenecks in AIS’s own processes — cutting down time spent on repetitive evaluation, data, or experimentation work so teams can focus on the hard problems
+Partner with other ML engineers, software engineers, product managers, customers, data annotators, and Forward Deployed Engineers to take your work from idea to production and translate enterprise and government requirements into robust ML capabilities
+Set AI/ML technical direction, mentor senior and staff-track engineers and scientists across teams, and raise the bar on experimental rigor org-wide
+Requirements:
+5+ years of experience as an ML engineer or applied/research scientist, including direct experience training or fine-tuning models in production systems
+PhD in Computer Science, Electrical Engineering, or a related field
+Broad, hands-on fluency across the agentic ML stack — model training and fine-tuning (SFT, RLHF/RLAIF, reward modeling), evaluation and observability infrastructure, and agent architecture (tool use, planning, memory, multi-agent orchestration) — with demonstrated depth or expertise in at least one area within the AI/ML domain
+Demonstrated ability to move across problem areas rather than specialize in one corner of the ML stack — comfortable picking up unfamiliar parts of a system quickly
+Track record of partnering with software engineers to productionize research and experimental work, not just deliver a one-off analysis — and of pushing code to production yourself when needed — with a genuine drive for pathfinding, 0-to-1 problems where the right approach isn’t yet known
+Track record of setting AI/ML technical direction — choosing methods and architectures that other teams adopt — and collaborating across functions (Product, Forward Deployed Engineering, etc.) to navigate ambiguous requirements and bring them to production
+Track record of mentoring engineers and scientists, giving and receiving direct, substantive technical feedback at a staff level, and influencing decisions and standards beyond your own team — through design reviews, technical writing, or shaping how other teams approach a problem
+Nice to have:
+Published research, open-source contributions, or patents in agent training methods, LLM alignment, or applied ML
+Experience with online learning, continuous fine-tuning, or automated data/curriculum generation from production traces
+Experience with model or systems optimization (e.g., training efficiency, latency, cost, or inference efficiency at scale)
+Experience working in regulated or enterprise/government contexts
+Track record of taking a novel training method or agent architecture from prototype to something running reliably in production, navigating ambiguity along the way
+Prior experience as a technical lead setting direction across multiple teams or problem areas
+Compensation packages at Scale for eligible roles include base salary, equity, and benefits. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position and may be inclusive of several career levels at Scale; it will be determined during the interview process based on work location and additional factors, including job-related skills, experience, qualifications, interview performance, and relevant education or training. Scale employees in eligible roles are also granted equity based compensation, subject to Board of Director approval. Your recruiter can share more about the specific salary range for your preferred location during the hiring process, and confirm whether the hired role will be eligible for equity grant. You'll also receive benefits including, but not limited to: comprehensive health, dental and vision coverage, retirement benefits, a learning and development stipend, and generous PTO. Additionally, this role may be eligible for additional benefits such as a commuter stipend.
+
+Please reference the job posting's subtitle for where this position will be located. For pay transparency purposes, the base salary range for this full-time position in the locations of San Francisco, New York, Seattle is:
+
+$250,000 - $350,000USD
+
+PLEASE NOTE: Our policy requires a 90-day waiting period before reconsidering candidates for the same role. This allows us to ensure a fair and thorough evaluation of all applicants.
+
+About Us:
+
+At Scale, our mission is to develop reliable AI systems for the world's most important decisions. Our products provide the high-quality data and full-stack technologies that power the world's leading models, and help enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Ernst & Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. We are expanding our team to accelerate the development of AI applications.
+
+We believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status. 
+
+We are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at accommodations@scale.com. Please see the United States Department of Labor's Know Your Rights poster for additional information.
+
+We comply with the United States Department of Labor's Pay Transparency provision. 
+
+PLEASE NOTE: We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants’ needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data. Please see our privacy policy for additional information.
+
+Create a Job Alert
+
+Interested in building your career at Scale AI? Get future opportunities sent straight to your email.
+
+Create alert
+Apply for this job
+
+*
+
+indicates a required field
+
+Autofill my application
+First Name*
+Last Name*
+Email*
+Phone
+Country*.remix-css-b62m3t-container{position:relative;box-sizing:border-box;}
+.remix-css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+.remix-css-13cymwt-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:0!important;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:4px;border-style:solid;border-width:1px;box-sizing:border-box;}.remix-css-13cymwt-control:hover{border-color:hsl(0, 0%, 70%);}
+.remix-css-hlgwow{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;}
+.remix-css-1jqq78o-placeholder{grid-area:1/1/2/3;color:hsl(0, 0%, 50%);margin-left:2px;margin-right:2px;box-sizing:border-box;}
+.remix-css-19bb58m{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;}.remix-css-19bb58m:after{content:attr(data-value) "" "";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+.remix-css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+.remix-css-1a0ro4n-requiredInput{opacity:0;pointer-events:none;position:absolute;bottom:0;left:0;right:0;width:100%;}
+Phone*
+Location (City)*
+Locate me
+Resume/CV
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+AttachAttach
+Dropbox
+Google Drive
+Enter manuallyEnter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+LinkedIn Profile
+Website
+Are you open to working in person in our San Francisco or New York office 3 times a week?
+Select...
+Are you currently bound by any agreements with a current or former employer that may restrict your ability to work for Scale AI or perform the duties of the position for which you are applying? This includes, but is not limited to, non-compete agreements, non-solicitation agreements, confidentiality or non-disclosure agreements, or any other contractual obligations that could limit your employment activities.*
+Select...
+If yes, please provide further explanation below.
+Are you legally authorized to work in the country where the job is located?*
+Select...
+Will you now or in the future require company sponsorship to retain or extend your work authorization in the country where the job is located?*
+Select...
+Who is your current or most recent employer?*
+What is your current or most recent job title?*
+Voluntary Self-Identification
+
+For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+
+As set forth in Scale AI’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+
+Gender
+Select...
+Are you Hispanic/Latino?
+Select...
+Race & Ethnicity Definitions
+
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:
+
+A ""disabled veteran"" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+
+A ""recently separated veteran"" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+
+An ""active duty wartime or campaign badge veteran"" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+
+An ""Armed forces service medal veteran"" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+
+Veteran Status
+Select...
+Voluntary Self-Identification of Disability
+Form CC-305
+Page 1 of 1
+OMB Control Number 1250-0005
+Expires 07/31/2029
+
+Why are you being asked to complete this form?
+
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at www.dol.gov/ofccp.
+
+How do you know if you have a disability?
+
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability. Disabilities include, but are not limited to:
+
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+Disability Status
+Select...
+
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+Submit application"
