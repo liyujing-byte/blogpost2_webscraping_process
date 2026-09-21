@@ -213,3 +213,49 @@ write.csv(
   "data/skill_summary.csv",
   row.names = FALSE
 )
+
+
+# --------------------------------------------------
+# 10. Create and save figure
+# --------------------------------------------------
+
+skill_summary_final$Skill_label <- skill_summary_final$Skill
+
+skill_summary_final$Skill_label[
+  skill_summary_final$Skill_label == "PowerBI"
+] <- "Power BI"
+
+skill_summary_final$Skill_label[
+  skill_summary_final$Skill_label == "MachineLearning"
+] <- "Machine Learning"
+
+skill_summary_final$Skill_label[
+  skill_summary_final$Skill_label == "Cpp"
+] <- "C++"
+
+skills_plot <- ggplot(
+  skill_summary_final,
+  aes(x = reorder(Skill_label, Percentage),
+      y = Percentage)
+) +
+  geom_col() +
+  coord_flip() +
+  labs(
+    title = "Technical Skills Mentioned in Data-Related Job Postings",
+    subtitle = "19 unique roles across Garner Health, Affirm, Arcana Analytics, and Scale AI",
+    x = NULL,
+    y = "Percentage of Job Postings (%)",
+    caption = "Source: Public Greenhouse job postings; duplicate regional listings removed."
+  ) +
+  ylim(0, 70) +
+  theme_minimal()
+
+skills_plot
+
+ggsave(
+  "figures/skills_plot.png",
+  plot = skills_plot,
+  width = 10,
+  height = 6,
+  dpi = 300
+)
